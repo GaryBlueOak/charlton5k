@@ -1,0 +1,339 @@
+[
+    {
+        "name" : "Burnt Hills Chiropractic",
+        "address": {
+            "line1" : "802 Saratoga Road",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "name" : "Paul Lewandowski",
+            "phone" : "(518)399-2225"
+        },
+        "website" : "http://www.burnthillschiropractic.com",
+        "image" : "images/sponsors/BHC.jpg"
+    },
+    {
+        "name" : "Burnt Hills Veterinary Hospital",
+        "address": {
+            "line1" : "145 Goode Street",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "name" : "Dave Saperjahn",
+            "phone" : "(518)399-5213",
+            "email" : "bhvethos@nycap.rr.com"
+        },
+        "website" : "http://www.burnthillsvethosp.com",
+        "image" : "images/sponsors/BHVet.jpg"
+    },
+    {
+        "name" : "Charlton Tavern",
+        "address": {
+            "line1" : "745 Charlton Road",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "phone" : "(518)399-9951"
+        },
+        "website" : "http://www.charltontavern.com",
+        "image" : "images/sponsors/CT.jpg"
+    },
+    {
+        "name" : "Charlton Septic Service",
+        "address": {
+            "line1" : "4015 Jockey Street",
+            "line2" : "Ballston Lake, NY 12019"
+        },
+        "contact":{
+            "name" : "Kevin C. Loukes",
+            "phone" : "(518)399-4948"
+        },
+        "website" : "http://www.charltonsepticservice.net"
+    },
+    {
+        "name" : "Charlton Town Hall",
+        "address": {
+            "line1" : "758 Charlton Road",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "phone" : "(518)399-9951 ext.207"
+        },
+        "website" : "http://www.townofcharlton.org",
+        "image" : "images/sponsors/cth.jpg"
+    },
+    {
+        "name" : "Ellms Christmas Trees",
+        "address": {
+            "line1" : "468 Charlton Road",
+            "line2" : "Ballston Spa, NY 12020"
+        },
+        "contact":{
+            "name" : "Chip and Sally Ellms",
+            "phone" : "(518)885-7377"
+        },
+        "website" : "http://www.ellmsfarms.com",
+        "image" : "images/sponsors/ect.jpg"
+    },
+    {
+        "name" : "Stewarts Shops",
+        "website" : "http://www.stewartsshops.com",
+        "image" : "images/sponsors/ss.jpg"
+    },
+    {
+        "name" : "Culligan Water of Scotia",
+        "address": {
+            "line1" : "1 Culligan Rd",
+            "line2" : "Scotia, NY 12302"
+        },
+        "contact":{
+            "phone" : "(518)618-2020"
+        },
+        "website" : "http://www.culliganscotia.com",
+        "image" : "images/sponsors/cwos.png"
+    },
+    {
+        "name" : "Physical Therapy Associates of Schectady",
+        "address": {
+            "line1" : "42 Saratoga Rd",
+            "line2" : "Scotia, NY 12302"
+        },
+        "contact":{
+            "phone" : "(518)399-6861"
+        },
+        "website" : "http://www.physicaltherapyschdy.com",
+        "image" : "images/sponsors/ptaos.jpg"
+    },
+    {
+        "name" : "Odorless Sanitary Cleaners",
+        "address": {
+            "line1" : "392 Stage Road",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "phone" : "(518)399-3482"
+        },
+        "website" : "http://www.odorlesscleaners.com",
+        "image" : "images/sponsors/osc.jpg"
+    },
+    {
+        "name" : "FPI Mechanical Inc.",
+        "address": {
+            "line1" : "11 Green Mountain Dr.",
+            "line2" : "Cohoes, NY 12047"
+        },
+        "contact":{
+            "name" : "Bill Herkenham",
+            "phone" : "(518)783-7066"
+        },
+        "image" : "images/sponsors/fmi.jpg"
+    },
+    {
+        "name" : "Price Chopper Supermarkets",
+        "website" : "http://www.pricechopper.com",
+        "image" : "images/sponsors/pcs.jpg"
+    },
+    {
+        "name" : "C.T.Male Associates",
+        "address": {
+            "line1" : "50 Century Hill Drive",
+            "line2" : "Latham, NY 12110"
+        },
+        "contact":{
+            "phone" : "(518)786-7400"
+        },
+        "website" : "http://www.ctmale.com",
+        "image" : "images/sponsors/ctma.jpg"
+    },
+    {
+        "name" : "Charlton General Store",
+        "address": {
+            "line1" : "747 Charlton Road",
+            "line2" : "Ballston Lake, NY 12019"
+        },
+        "website": "http://thecharltongeneralstore.com/",
+        "image" : "images/sponsors/cgs.jpg"
+    },
+    {
+        "name" : "Scotia-Glenville Family Medicine",
+        "address": {
+            "line1" : "112 Charlton Road",
+            "line2" : "Ballston Lake, NY 12019"
+        },
+        "contact":{
+            "name" : "Dr. Kerry Ricker and Dr.John Pezzulo",
+            "phone" : "(518)399-7723"
+        },
+        "website" : "http://www.scotiaglenvilledocs.com/",
+        "image" : "images/sponsors/sgfm.jpg"
+    },
+    {
+        "name" : "Capital District Stairs",
+        "address": {
+            "line1" : "4074 Jockey Street",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "name" : "Paul Nikiforov",
+            "fax" : "(518)371-9655",
+            "phone" : "(518)527-4830"
+        },
+        "website" : "http://capitaldistrictstairs.com/",
+        "image" : "images/sponsors/cds.gif"
+    },
+    {
+        "name" : "CDPHP",
+        "address": {
+            "line1" : "500 Patroon Creek Blvd",
+            "line2" : "Albany, NY 12206"
+        },
+        "contact":{
+            "phone" : "(518)641-3000"
+        },
+        "website" : "http://www.cdphp.com/",
+        "image" : "images/sponsors/cdphp.jpg"
+    },
+    {
+        "name" : "Capital Care Family Medicine Charlton",
+        "address": {
+            "line1" : "286 Stage Rd",
+            "line2" : "Ballston Lake, NY 12019"
+        },
+        "contact":{
+            "name" : "David Phelps MD, Philip Hunter MD, Kristen Martin MD",
+            "phone" : "(518)399-2101"
+        },
+        "website" : "http://www.capcare.com/",
+        "image" : "images/sponsors/ccfmc.jpg"
+    },
+    {
+        "name" : "Emerich Sales and Service",
+        "address": {
+            "line1" : "187 Valentine Rd",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "email" : "emerichsales@aol.com",
+            "phone" : "(518)399-8574"
+        },
+        "website" : "http://www.emerichsales.com/",
+        "image" : "images/sponsors/esas.png"
+    },
+    {
+        "name" : "Gil's Garage",
+        "address": {
+            "line1" : "817 Saratoga Rd",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "phone" : "(518)399-4976"
+        },
+        "website" : "http://www.gilsgarage.com/",
+        "image" : "images/sponsors/gg.jpg"
+    },
+    {
+        "name" : "Schrader and Company, Inc.",
+        "address": {
+            "line1" : "850 Saratoga Rd",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "email" : "christy@schraderandco.com",
+            "phone" : "(518)399-7723"
+        },
+        "website" : "http://www.schraderandco.com/",
+        "image" : "images/sponsors/saci.jpg"
+    },
+    {
+        "name" : "Edward Jones",
+        "address": {
+            "line1" : "801 Saratoga Rd",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "name" : "Christopher Nyhan",
+            "email" : "chris.nyhan@edwardjones.com",
+            "phone" : "(518)399-5087"
+        },
+        "website" : "http://www.edwardjones.com/",
+        "image" : "images/sponsors/ej.jpg"
+    },
+    {
+        "name" : "Burnt Hills Optical",
+        "address": {
+            "line1" : "793 Route 50",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "phone" : "(518)399-6130"
+        },
+        "website" : "http://www.burnthillsoptical.com/",
+        "image" : "images/sponsors/bho.jpg"
+    },
+    {
+        "name" : "KB Engineering and Consulting, PLLC",
+        "address": {
+            "line1" : "89 Kingsbury Rd",
+            "line2" : "Burnt Hills, NY 12027"
+        },
+        "contact":{
+            "name" : "Kurt M. Bedore",
+            "email" : "kbedore@nycap.rr.com",
+            "phone" : "(518)669-4091"
+        },
+        "website" : "http://www.kbengineeringandconsulting.com/",
+        "image" : "images/sponsors/keacp.jpg"
+    },
+    {
+        "name" : "Roy Oyangen, D.M.D.",
+        "address": {
+            "line1" : "113 Saratoga Rd, Suite 101",
+            "line2" : "Schenectady, NY 12302"
+        },
+        "contact":{
+            "phone" : "(518)399-4696"
+        },
+        "website" : "http://www.oyangendmd.com/",
+        "image" : "images/sponsors/rodmd.jpg"
+    },
+    {
+        "name" : "Burnt Hills - Ballston Lake Teacher's Association",
+        "contact":{
+            "name" : "Mike Mosall",
+            "email" : "president@bhblta.org"
+        },
+        "website" : "http://bhblta.org/",
+        "image" : "images/sponsors/bhblta.jpg"
+    },
+    {
+        "name" : "Hoskinson Orthodontics",
+        "address": {
+            "line1" : "207 Mohawk Ave",
+            "line2" : "Scotia, NY 12302"
+        },
+        "website" : "http://www.hoskinsonortho.com/",
+        "image" : "images/sponsors/ho.jpg"
+    },
+    {
+        "name" : "RF Herkenham Company",
+        "address": {
+            "line1" : "2093 Maple Ave",
+            "line2" : "Charlton, NY 12019"
+        },
+        "contact":{
+            "name" : "Bill Herkenham"
+        },
+        "image" : "images/sponsors/rhc.jpg"
+    },
+    {
+        "name" : "Timberland Custom Remodeling Inc.",
+        "contact":{
+            "name" : "Justin Adkins",
+            "email" : "justin.adkins16@gmail.com",
+            "facebook" : "https://www.facebook.com/timberlandcustomremodelinginc"
+        },
+        "website" : "http://www.scotiaglenvilledocs.com/",
+        "image" : "images/sponsors/tcri.jpg"
+    }
+    
+]

@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "[ {\"path\" : \"../images/2010/\", \"images\": [" >> meta.json
+for f in *; do
+	echo "\"$f\"," >> meta.json  
+done
+echo "]}]" >> meta.json

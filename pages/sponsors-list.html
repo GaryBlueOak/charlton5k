@@ -1,0 +1,40 @@
+<div class="row">   
+    <div ng-repeat="sponsor in site.sponsors">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>{{sponsor.name}}</h3>
+            <p>
+                <img class="sponsor-icon" ng-src="../{{sponsor.image}}" alt="" ng-alt="" align="right"/>
+                <div ng-show=sponsor.address>
+                    <div ng-show="sponsor.address.line1">{{sponsor.address.line1}}</div>
+                    <div ng-show="sponsor.address.line2">{{sponsor.address.line2}}</div>
+              </div>
+                <br>
+              <div ng-show=sponsor.contact>
+                <div ng-show="sponsor.contact.name">
+                    {{sponsor.contact.name}}
+                  </div>
+                <div ng-show="sponsor.contact.phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    {{sponsor.contact.phone}}
+                </div>
+                
+                <div ng-show="sponsor.contact.email">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                    {{sponsor.contact.email}}
+                  </div>
+              </div>
+            </p>
+            <div ng-show="sponsor.website">
+            <p> <a href="{{sponsor.website}}" class="btn btn-default" role="button">
+                <i class="fa fa-globe" aria-hidden="true"></i>
+                Website
+                </a>
+            </p>
+                </div
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
