@@ -5,7 +5,7 @@
     app.directive("navigationBar", function(){
        return {
          restrict : 'E',
-         templateUrl : '../pages/navigation-bar.html'
+         templateUrl : './pages/navigation-bar.html'
        };
     });
     
